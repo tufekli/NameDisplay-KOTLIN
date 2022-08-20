@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NameDisplay</string>
+    <string name="editText">Adınızı ve Soyadınızı Giriniz</string>
+    <string name="button1">Adımı Göster</string>
+    <string name="textView">...</string>
+</resources>
